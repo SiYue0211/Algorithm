@@ -21,6 +21,7 @@ public:
     void del(list &l, int n);
     void search(list &l, int n);
     void reverse(list &l);
+    void print(list &l);
 };
 
 void list::head(list &l, int n) {
@@ -77,15 +78,30 @@ void list::reverse(list &l) {
     {
         q = p->next;
         p->next = q->next;
-        q->next = p;
+        // 如果写q->next = p就会悲剧，头指针跟着头结点换到了后面
+        q->next = l.h->next;
+        l.h->next = q;
     }
+}
+
+void list::print(list &l) {
+    node *p = l.h;
+    p = p->next;
+    while(p)
+    {
+        cout<< p->data<< " ";
+        p = p->next;
+    }
+    cout<< endl;
 }
 
 int main()
 {
     list l;
     l.head(l, 3);
+    l.print(l);
     l.reverse(l);
+    l.print(l);
 }
 
 
