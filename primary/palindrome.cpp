@@ -77,8 +77,6 @@ bool pali(list &l)
         while(num > 0 && q) {
             num -= 1;
             q = q->next;
-//            cout<<"q  "<<q->data<< endl;
-//            cout<<"num "<< num<< endl;
         }
         if(!q)
         {
@@ -87,28 +85,21 @@ bool pali(list &l)
         if(num == 0)
         {
             p = p->next;
-//            cout << p->data<< endl;
         }
 
     }
-//    cout << p->data<< endl;
 
 
     // 将后半段逆序
-    node *middle = p;
     // 经过处理后p指向尾巴
     p = reverse(p, q);
-    node *end = p;
 
-    middle->next = NULL;
     node *start1 = l.h->next;
     node *start2 = p;
     while(start1)
     {
         if(start1->data != start2->data)
         {
-//            reverse(end, middle->next);
-//            end->next = NULL;
             return false;
         }
 
@@ -118,9 +109,6 @@ bool pali(list &l)
             start2 = start2->next;
         }
     }
-//    reverse(end, middle->next);
-//    end->next = NULL;
-
     return true;
 
 
@@ -133,7 +121,6 @@ int main()
     l.print(l);
     bool isPalindrome = pali(l);
     cout<< isPalindrome<< endl;
-//    l.print(l);
 }
 
 
