@@ -19,7 +19,7 @@
  * ------如果左边数组的值大于右边数组的值，说明，右边数组的所有值均大于左边数组的当前值，于是用右面数组的位数乘以左边的当前值，累加到总小和里。
  */
 #include <iostream>
-#include "base.cpp"
+#include "0.base.cpp"
 using namespace std;
 
 int sum = 0;
