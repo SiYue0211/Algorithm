@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/primary1/8.arrayClassification.cpp" line="4" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Algorithm" targetName="Algorithm" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a54aafd-27b3-4ac7-992f-3684ea2eb835" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/primary2/BothLoop.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primary2/nodeNext.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/!heapSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/!heapSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/!insertSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/!insertSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/!reverseOrder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/!reverseOrder.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/0.CompareMechine.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/0.CompareMechine.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/0.base.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/0.base.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/1.rotateRect.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/1.rotateRect.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/10.B_takeout_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/10.B_takeout_A.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/11.printRectange.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/11.printRectange.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/12.MergeSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/12.MergeSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/13.smallSum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/13.smallSum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/14.bubble_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/14.bubble_sort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/15.SelectionSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/15.SelectionSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/16.bigRootHeap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/16.bigRootHeap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/2.reverseList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/2.reverseList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/3.dutchFlag.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/3.dutchFlag.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/4.stack_realize_queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/4.stack_realize_queue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/5.queueRealizeStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/5.queueRealizeStack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/6.arrStackmin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/6.arrStackmin.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/7.maxDifference.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/7.maxDifference.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/8.arrayClassification.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/8.arrayClassification.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/9.arr_queue_stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/9.arr_queue_stack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/ListSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/ListSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/bucketSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/bucketSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/classSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/classSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/findNumInSoredMatrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/findNumInSoredMatrix.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/palindrome.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/palindrome.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/printSame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/printSame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/quickSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/quickSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/quickSortPlus.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/quickSortPlus.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/recursive.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/recursive.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primary/zigzag_print.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/zigzag_print.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="nodeNext.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/primary2/nodeNext.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="e#490#509#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/primary/queueRealizeStack.cpp" />
+        <option value="$PROJECT_DIR$/primary/stack_realize_queue.cpp" />
+        <option value="$PROJECT_DIR$/primary/printRectange.cpp" />
+        <option value="$PROJECT_DIR$/primary/rotateRect.cpp" />
+        <option value="$PROJECT_DIR$/primary/reverseList.cpp" />
+        <option value="$PROJECT_DIR$/primary/zigzag_print.cpp" />
+        <option value="$PROJECT_DIR$/primary/findNumInSoredMatrix.cpp" />
+        <option value="$PROJECT_DIR$/primary/printSame.cpp" />
+        <option value="$PROJECT_DIR$/primary/palindrome.cpp" />
+        <option value="$PROJECT_DIR$/primary/ListSort.cpp" />
+        <option value="$PROJECT_DIR$/primary/listCopyRandom.cpp" />
+        <option value="$PROJECT_DIR$/primary/7.maxDifference.cpp" />
+        <option value="$PROJECT_DIR$/primary/test.cpp" />
+        <option value="$PROJECT_DIR$/primary2/BothLoop.cpp" />
+        <option value="$PROJECT_DIR$/primary2/nodeNext.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="290" />
+    <option name="y" value="8" />
+    <option name="width" value="1198" />
+    <option name="height" value="832" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="primary2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/primary" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Algorithm">
+    <configuration name="Algorithm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="Algorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="Algorithm" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="Algorithm" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Algorithm" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a54aafd-27b3-4ac7-992f-3684ea2eb835" name="Default" comment="" />
+      <created>1526453024827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526453024827</updated>
+      <workItem from="1526453026007" duration="3164000" />
+      <workItem from="1526533287231" duration="3000" />
+      <workItem from="1526540818031" duration="4584000" />
+      <workItem from="1526547776585" duration="136000" />
+      <workItem from="1526551783292" duration="712000" />
+      <workItem from="1526553556468" duration="4060000" />
+      <workItem from="1526639849355" duration="63000" />
+      <workItem from="1526640709965" duration="8878000" />
+      <workItem from="1526817014850" duration="8078000" />
+      <workItem from="1526885129080" duration="13346000" />
+      <workItem from="1526957089828" duration="12114000" />
+      <workItem from="1527053440448" duration="144000" />
+      <workItem from="1527058064069" duration="5548000" />
+      <workItem from="1527084262219" duration="486000" />
+      <workItem from="1527142113852" duration="5296000" />
+      <workItem from="1527228198127" duration="8600000" />
+      <workItem from="1527498979187" duration="3177000" />
+      <workItem from="1527511618097" duration="5168000" />
+      <workItem from="1527574111888" duration="7248000" />
+      <workItem from="1527668242814" duration="197000" />
+      <workItem from="1527668449562" duration="3051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94053000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1377" height="912" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49932706" visible="true" weight="0.22263314" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32901555" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.28129032" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50073963" side_tool="true" weight="0.2888601" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32901555" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.50067294" side_tool="true" weight="0.17307693" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49926037" visible="true" weight="0.2681347" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32901555" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/primary2/nodeNext.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding>
+            <element signature="e#490#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/13.smallSum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/7.maxDifference.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/palindrome.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/findNumInSoredMatrix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/2.reverseList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="87" column="17" lean-forward="true" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/quickSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/11.printRectange.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/4.stack_realize_queue.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/4.stack_realize_queue.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary/listCopyRandom.cpp" />
+    <entry file="file://$PROJECT_DIR$/primary1/1.rotateRect.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/2.reverseList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="80" column="43" selection-start-line="80" selection-start-column="43" selection-end-line="80" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/5.queueRealizeStack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/4.stack_realize_queue.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1654">
+          <caret line="99" column="18" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/6.arrStackmin.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/7.maxDifference.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/8.arrayClassification.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/9.arr_queue_stack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/10.B_takeout_A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/12.MergeSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/11.printRectange.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/zigzag_print.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/13.smallSum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/!reverseOrder.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/14.bubble_sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/0.base.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/!insertSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary/demo.cpp" />
+    <entry file="file://$PROJECT_DIR$/primary1/16.bigRootHeap.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="62" column="8" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/0.CompareMechine.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/classSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/findNumInSoredMatrix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/ListSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/palindrome.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/printSame.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary1/quickSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/primary2/BothLoop.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primary2/nodeNext.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="e#490#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
