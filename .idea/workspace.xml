@@ -14,43 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a54aafd-27b3-4ac7-992f-3684ea2eb835" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/primary2/BothLoop.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primary2/nodeNext.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/!heapSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/!heapSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/!insertSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/!insertSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/!reverseOrder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/!reverseOrder.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/0.CompareMechine.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/0.CompareMechine.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/0.base.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/0.base.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/1.rotateRect.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/1.rotateRect.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/10.B_takeout_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/10.B_takeout_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/11.printRectange.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/11.printRectange.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/12.MergeSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/12.MergeSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/13.smallSum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/13.smallSum.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/14.bubble_sort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/14.bubble_sort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/15.SelectionSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/15.SelectionSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/16.bigRootHeap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/16.bigRootHeap.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/2.reverseList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/2.reverseList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/3.dutchFlag.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/3.dutchFlag.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/4.stack_realize_queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/4.stack_realize_queue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/5.queueRealizeStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/5.queueRealizeStack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/6.arrStackmin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/6.arrStackmin.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/7.maxDifference.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/7.maxDifference.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/8.arrayClassification.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/8.arrayClassification.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/9.arr_queue_stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/9.arr_queue_stack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/ListSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/ListSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/bucketSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/bucketSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/classSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/classSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/findNumInSoredMatrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/findNumInSoredMatrix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/palindrome.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/palindrome.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/printSame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/printSame.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/quickSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/quickSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/quickSortPlus.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/quickSortPlus.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/recursive.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/recursive.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primary/zigzag_print.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/primary1/zigzag_print.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="8a54aafd-27b3-4ac7-992f-3684ea2eb835" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,20 +25,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="nodeNext.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/primary2/nodeNext.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-              <folding>
-                <element signature="e#490#509#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,6 +50,7 @@
         <option value="$PROJECT_DIR$/primary/test.cpp" />
         <option value="$PROJECT_DIR$/primary2/BothLoop.cpp" />
         <option value="$PROJECT_DIR$/primary2/nodeNext.cpp" />
+        <option value="$PROJECT_DIR$/primary2/findPre.cpp" />
       </list>
     </option>
   </component>
@@ -129,6 +81,11 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="primary1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -204,12 +161,12 @@
       <workItem from="1527511618097" duration="5168000" />
       <workItem from="1527574111888" duration="7248000" />
       <workItem from="1527668242814" duration="197000" />
-      <workItem from="1527668449562" duration="3051000" />
+      <workItem from="1527668449562" duration="4172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94053000" />
+    <option name="totallyTimeSpent" value="95174000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -222,11 +179,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1377" height="912" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49932706" visible="true" weight="0.22263314" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32901555" />
-      <window_info anchor="bottom" id="CMake" order="7" weight="0.28129032" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.28108808" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50073963" side_tool="true" weight="0.2888601" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32901555" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -286,9 +242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-          <folding>
-            <element signature="e#490#509#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,13 +516,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/primary2/findPre.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/primary2/nodeNext.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="e#490#509#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="115">
+          <caret line="19" selection-start-line="19" selection-end-line="28" selection-end-column="6" />
         </state>
       </provider>
     </entry>
