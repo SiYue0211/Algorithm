@@ -5,32 +5,18 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <algorithm>
 using namespace std;
 
-string int2string(int val)
-{
-    string result = "";
-    if(val < 0)
-    {
-        val = -val;
-        result += "-";
-    }
-    while(val >= 10)
-    {
-        int temp = val % 10;
-        char int1 = (char)((val/10) + int('0'));
-        if(val/10 == 0 && temp < 10)
-            char int1 = (char)(temp);
-        result += int1;
-        cout<< result<<" ";
-        val = temp;
-    }
-    return result;
+bool compare(int a, int b){
+    return a > b;
 }
 
 int main()
 {
-    int val = 101;
-    string result = int2string(val);
-    cout<< result<< endl;
+    int a[5] = {1, 3, 2, 8, 0};
+    sort(a, a+5, compare);
+    for(int i = 0; i< 5; i++)
+        cout<< a[i]<< " ";
+    cout<< endl;
 }
