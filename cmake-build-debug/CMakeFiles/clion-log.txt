@@ -1,15 +1,6 @@
-/root/下载/clion-2018.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Algorithm
--- Configuring done
-CMake Error at CMakeLists.txt:6 (add_executable):
-  Cannot find source file:
-
-    main.cpp
-
-  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
-  .hxx .in .txx
+"D:\安装目录\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Code\Algorithm
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.10 or higher is required.  You are running version 3.8.2
 
 
-CMake Error: CMake can not determine linker language for target: Algorithm
-CMake Error: Cannot determine link language for target "Algorithm".
--- Generating done
--- Build files have been written to: /Algorithm/cmake-build-debug
+-- Configuring incomplete, errors occurred!
