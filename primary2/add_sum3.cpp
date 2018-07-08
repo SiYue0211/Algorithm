@@ -10,21 +10,12 @@ using namespace std;
 
 int cal_count(vector<int> &array, int M){
     sort(array.begin(), array.end());
-//    for (int l = 0; l < array.size() ; ++l) {
-//        cout<< array[l]<< " ";
-//    }
-//    cout<< endl;
     vector<int> dup(array.size(), 0);
     for (int j = 1; j < dup.size(); ++j) {
         if(array[j] == array[j-1])
             dup[j] = dup[j-1] + 1;
         else
             dup[j] = dup[j-1];
-    }
-//    for (int k = 0; k < dup.size(); ++k) {
-//        cout<< dup[k] << " ";
-//    }
-//    cout<< endl;
     int count = 0;
     for (int i = 0; i < array.size()-2; ++i) {
         if(i > 0 && array[i] == array[i-1])
@@ -38,8 +29,6 @@ int cal_count(vector<int> &array, int M){
             }
             int cur_sum = array[i] + array[L] + array[R];
             if(cur_sum <= M){
-//                count = count + R - L;
-                cout<< L << " "<< R<< endl;
                 count = count + R - L - (dup[R] - dup[L]);
                 if(array[L] == array[L+1])
                     count++;
@@ -52,7 +41,7 @@ int cal_count(vector<int> &array, int M){
 
     }
     return count;
-}
+}}
 
 int main(){
     vector<int> array = {3,2,5,2,1,4,2,3};
