@@ -1,6 +1,7 @@
 /*
  * Created by Dawn on 2018/6/18.
  * 题目描述：给你一个数组arr和一个整数aim，如果可以选择arr中的数组，能不能累加到aim，返回true or false
+ *         目前以下解法只适用于无负数情况
 */
 
 #include <iostream>
